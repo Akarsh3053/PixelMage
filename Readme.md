@@ -1,1 +1,3 @@
 # PixelMage
+
+AI superpowers for image editing.......
