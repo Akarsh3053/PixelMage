@@ -35,10 +35,10 @@ export const DeleteConfirmation = ({ imageId }: { imageId: string }) => {
       <AlertDialogContent className="flex flex-col gap-10">
         <AlertDialogHeader>
           <AlertDialogTitle>
-            Are you sure you want to delete this image?
+            Are you sure you want spells to be undone?
           </AlertDialogTitle>
           <AlertDialogDescription className="p-16-regular">
-            This will permanently delete this image
+            This will permanently remove it from existence.
           </AlertDialogDescription>
         </AlertDialogHeader>
 
