@@ -45,12 +45,11 @@ export const InsufficientCreditsModal = () => {
           />
 
           <AlertDialogTitle className="p-24-bold text-dark-600">
-            Oops.... Looks like you&#39;ve run out of free credits!
+            Oops.... Looks like you&#39;ve run out of magic✨!
           </AlertDialogTitle>
 
           <AlertDialogDescription className="p-16-regular py-3">
-            No worries, though - you can keep enjoying our services by grabbing
-            more credits.
+            No worries, you can buy some more Mage coins to replenish it.
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
@@ -64,7 +63,7 @@ export const InsufficientCreditsModal = () => {
             className="button w-full bg-purple-gradient  bg-cover"
             onClick={() => router.push("/credits")}
           >
-            Yes, Proceed
+            Yes, sure!
           </AlertDialogAction>
         </AlertDialogFooter>
       </AlertDialogContent>
