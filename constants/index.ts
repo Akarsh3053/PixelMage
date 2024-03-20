@@ -44,75 +44,75 @@ export const navLinks = [
   export const plans = [
     {
       _id: 1,
-      name: "Free",
+      name: "Novice",
       icon: "/assets/icons/free-plan.svg",
       price: 0,
       credits: 20,
       inclusions: [
         {
-          label: "20 Free Credits",
+          label: "20 Free Mage Coins",
           isIncluded: true,
         },
         {
-          label: "Basic Access to Services",
+          label: "Basic Transfiguration spells",
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Acess to advanced spells",
           isIncluded: false,
         },
         {
-          label: "Priority Updates",
+          label: "Forbidden spells",
           isIncluded: false,
         },
       ],
     },
     {
       _id: 2,
-      name: "Pro Package",
+      name: "Wizard",
       icon: "/assets/icons/free-plan.svg",
-      price: 40,
+      price: 99,
       credits: 120,
       inclusions: [
         {
-          label: "120 Credits",
+          label: "120 Mage Coins",
           isIncluded: true,
         },
         {
-          label: "Full Access to Services",
+          label: "Advanced Transfiguration spells",
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Acess to advanced spells",
           isIncluded: true,
         },
         {
-          label: "Priority Updates",
+          label: "Forbidden spells",
           isIncluded: false,
         },
       ],
     },
     {
       _id: 3,
-      name: "Premium Package",
+      name: "Grand Wizard",
       icon: "/assets/icons/free-plan.svg",
       price: 199,
       credits: 2000,
       inclusions: [
         {
-          label: "2000 Credits",
+          label: "2000 Mage Coins",
           isIncluded: true,
         },
         {
-          label: "Full Access to Services",
+          label: "Advanced Transfiguration spells",
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Acess to advanced spells",
           isIncluded: true,
         },
         {
-          label: "Priority Updates",
+          label: "Forbidden spells",
           isIncluded: true,
         },
       ],
