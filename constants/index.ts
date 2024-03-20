@@ -54,7 +54,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Basic Transfiguration spells",
+          label: "Pixel Magic spells",
           isIncluded: true,
         },
         {
@@ -62,7 +62,7 @@ export const navLinks = [
           isIncluded: false,
         },
         {
-          label: "Forbidden spells",
+          label: "Forbidden spells ⚜️",
           isIncluded: false,
         },
       ],
@@ -79,7 +79,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Advanced Transfiguration spells",
+          label: "Pixel Magic spells",
           isIncluded: true,
         },
         {
@@ -87,7 +87,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Forbidden spells",
+          label: "Forbidden spells ⚜️",
           isIncluded: false,
         },
       ],
@@ -104,7 +104,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Advanced Transfiguration spells",
+          label: "Pixel Magic spells",
           isIncluded: true,
         },
         {
@@ -112,7 +112,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Forbidden spells",
+          label: "Forbidden spells ⚜️",
           isIncluded: true,
         },
       ],
