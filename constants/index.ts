@@ -170,7 +170,7 @@ export const aspectRatioOptions = {
   },
   "16:9": {
     aspectRatio: "16:9",
-    label: "Landscape (9:16)",
+    label: "Landscape (16:9)",
     width: 1920,
     height: 1080,
   },
