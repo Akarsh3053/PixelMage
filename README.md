@@ -20,7 +20,14 @@ The app has a modern and intuitive UI with features like responsive layouts and 
 
 # Screenshots
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6dOS6bE_nGbPADlh0Ozxz8lGH2hoZKoefRO_wFWaFoJEqeHnrDpSPJiqSyoiwiMnbQ2F_WqMgYCwRiqcx-gY_h94F0RIFuRA5pg0kS1vcfskHcK4WCWWhswTqk8NqFmkhnZa0TSjhEUZJmFDsxDrXzbmEyAGtxZw_mNDnS38MW9x38cw32UKlGZqeQ0/s16000/home.png"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRVPlRvxxHLl1HPi-jah6X9lyx0671DohsOhP16c7KUF3N4ffl9fHJ6qDkGcXt4nZYsqHwNAwin3v8gAHBOndazwiKR3FX2IKOtI0kv3sSzNTNQymVT82Gc5rgdnp3HfIBm8gm7wAjU9R56qNDCDEQfuxrBgIdPSKHFQOdv_fgdJHNCVzFN-rAOefI50c/s16000/profile.png"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8gohfpU5VnyB59KCjo3YQ-R0n8AHdPQXJr_bQ3pjRcsUg_UVY3naIWuQB5bH2biJnn2rxumgH_D5wruM8dcMkiKHLZJl3ZTtBYoPYgq8YTZmjsBa16xkgWfKLbw1w0EshACPju6L9ZRpsTWOuWqtKfBnUgXVvWLlXakWi7oI8lxTS_f4ZBIuILV1X6G0/s16000/plans.png">
+### Home Page
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6dOS6bE_nGbPADlh0Ozxz8lGH2hoZKoefRO_wFWaFoJEqeHnrDpSPJiqSyoiwiMnbQ2F_WqMgYCwRiqcx-gY_h94F0RIFuRA5pg0kS1vcfskHcK4WCWWhswTqk8NqFmkhnZa0TSjhEUZJmFDsxDrXzbmEyAGtxZw_mNDnS38MW9x38cw32UKlGZqeQ0/s16000/home.png"> 
+
+### Profile Page
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRVPlRvxxHLl1HPi-jah6X9lyx0671DohsOhP16c7KUF3N4ffl9fHJ6qDkGcXt4nZYsqHwNAwin3v8gAHBOndazwiKR3FX2IKOtI0kv3sSzNTNQymVT82Gc5rgdnp3HfIBm8gm7wAjU9R56qNDCDEQfuxrBgIdPSKHFQOdv_fgdJHNCVzFN-rAOefI50c/s16000/profile.png"> 
+
+### Premium Plans
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8gohfpU5VnyB59KCjo3YQ-R0n8AHdPQXJr_bQ3pjRcsUg_UVY3naIWuQB5bH2biJnn2rxumgH_D5wruM8dcMkiKHLZJl3ZTtBYoPYgq8YTZmjsBa16xkgWfKLbw1w0EshACPju6L9ZRpsTWOuWqtKfBnUgXVvWLlXakWi7oI8lxTS_f4ZBIuILV1X6G0/s16000/plans.png">
 
 # Tech Used
 
@@ -28,7 +35,7 @@ The app has a modern and intuitive UI with features like responsive layouts and 
 
 # Got any ideas?
 
-### Here's how you can contribute to `OwlDone`
+### Here's how you can contribute to `PixelMage`
 
 To contribute set up the local environment, develop and test your feature, or fix any existing bug. Once you are happy with your work, go ahead and raise a pull request, I'll be happy to merge any constructive change to the project, making it more awesome✌️.
 
@@ -46,7 +53,7 @@ https://github.com/Akarsh3053/PixelMage
 npm install
 ```
 
-##### Setup all the webhooks and point them to correct endpoints for srtipe and clerk.
+##### Setup all the webhooks and point them to the correct endpoints for stripe and clerk.
 
 ### API references
 
@@ -73,6 +80,6 @@ npm install
 npm run dev
 ```
 
-### If everything goes well, the app will be runing at:
+### If everything goes well, the app will be running at:
 
 - <a href="http://localhost:3000">http://localhost:3000</a>
