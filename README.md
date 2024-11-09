@@ -5,7 +5,7 @@
 
 # Description
 
-PixelMage is a straightforward Software as a Service (SaaS) platform crafted with modern technologies including Next.js, React, Node.js, and Tailwind CSS. It leverages Clerk for user management, allowing seamless authentication and authorization processes. For handling transactions, PixelMage integrates Stripe as its payment gateway, ensuring secure and efficient purchases. Additionally, the platform utilizes Cloudinary's API to drive its AI-powered image editing functionalities, empowering users with advanced editing capabilities.
+PixelMage is a straightforward SaaS platform crafted with modern technologies including Next.js, React, Node.js, and Tailwind CSS. It leverages Clerk for user management, allowing seamless authentication and authorization processes. For handling transactions, PixelMage integrates Stripe as its payment gateway, ensuring secure and efficient purchases. Additionally, the platform utilizes Cloudinary's API to drive its AI-powered image editing functionalities, empowering users with advanced editing capabilities.
 
 # Features
 
@@ -16,7 +16,7 @@ The app has a modern and intuitive UI with features like responsive layouts and 
 - Image Restoration
 - Responsive and modern UI
 - Generative fill to change the image aspect ratio
-- Object and content-based search for recent edits page.
+- In the picture search for the recent edits page.
 
 # Screenshots
 
